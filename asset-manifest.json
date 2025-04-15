@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/love-iq-test/static/css/main.bd46aaba.css",
+    "main.js": "/love-iq-test/static/js/main.635e0223.js",
+    "index.html": "/love-iq-test/index.html",
+    "main.bd46aaba.css.map": "/love-iq-test/static/css/main.bd46aaba.css.map",
+    "main.635e0223.js.map": "/love-iq-test/static/js/main.635e0223.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd46aaba.css",
+    "static/js/main.635e0223.js"
+  ]
+}
