@@ -2,7 +2,7 @@
   "name": "love-iq-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rayc-love-iq-test.github.io",
+  "homepage": ".",
   "dependencies": {
     "@stripe/stripe-js": "^2.4.0",
     "@testing-library/jest-dom": "^5.17.0",
